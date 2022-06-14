@@ -1,0 +1,26 @@
+Jobs parse	Time: 2021-12-19 07:20:33	Makefile: test.mk
+Jobs summary	total:19	parallel run:10
+Job submit	ID: 7886760	Name: Job_1	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job submit	ID: 7886761	Name: Job_2	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job submit	ID: 7886762	Name: Job_3	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job submit	ID: 7886763	Name: Job_4	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job submit	ID: 7886764	Name: Job_5	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job submit	ID: 7886765	Name: Job_6	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job submit	ID: 7886766	Name: Job_7	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job submit	ID: 7886767	Name: Job_8	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job submit	ID: 7886768	Name: Job_9	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job submit	ID: 7886769	Name: Job_10	Time: 2021-12-19 07:20:33	CPU: 1	Queue: high.q
+Job qdel while job qw or qacct can't accounting file 	ID: 7886760	Name: Job_1	Time: 2021-12-19 07:25:37
+Job qdel while job qw or qacct can't accounting file 	ID: 7886761	Name: Job_2	Time: 2021-12-19 07:25:37
+Job qdel while job qw or qacct can't accounting file 	ID: 7886762	Name: Job_3	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886760	Name: Job_1	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886761	Name: Job_2	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886762	Name: Job_3	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886763	Name: Job_4	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886764	Name: Job_5	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886765	Name: Job_6	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886766	Name: Job_7	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886767	Name: Job_8	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886768	Name: Job_9	Time: 2021-12-19 07:25:37
+Job auto-kill (killed)	ID: 7886769	Name: Job_10	Time: 2021-12-19 07:25:37
+Moniter program Stopped	Time: 2021-12-19 07:25:37	Makefile: test.mk
